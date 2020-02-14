@@ -1,2 +1,6 @@
 #### TEST PIC
-https://install.appcenter.ms/sign-in?original_url=install:/%2Forgs%2FHSBC-DBB%2Fapps%2FPayment-tracker-summary-sit%2Freleases%2F11
+https://install.appcenter
+
+
+
+https://install.appcenter.ms/orgs/HSBC-DBB/apps/Payment-tracker-summary-sit/releases/11
